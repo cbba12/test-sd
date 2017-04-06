@@ -6,6 +6,7 @@ public class TestBran {
 		// TODO Auto-generated method stub
 
 		System.out.println("测试分支！");
+		System.out.println("修改分支22！");
 	}
 
 }
